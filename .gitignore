@@ -1,0 +1,38 @@
+
+# .NET
+**/bin/
+**/obj/
+**/.vs/
+**/*.user
+**/*.suo
+**/publish/
+
+# Node.js / React / Vite
+**/node_modules/
+**/dist/
+**/.vite/
+**/coverage/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Local configuration and secrets
+**/appsettings.Development.json
+**/appsettings.Local.json
+**/secrets.json
+
+# IDE
+.idea/
+
+# Logs and temporary files
+**/logs/
+*.log
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="Traceform.API/Traceform.API.csproj" />
+    <Project Path="Traceform.Application/Traceform.Application.csproj" />
+    <Project Path="Traceform.Domain/Traceform.Domain.csproj" />
+    <Project Path="Traceform.Infrastructure/Traceform.Infrastructure.csproj" />
+  </Folder>
+</Solution>
